@@ -23,3 +23,23 @@ body, html {
 	text-align: right;
 	
 }
+/*  Table */
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#second th, td {
+  padding: 15px;
+}
+
+#second th {
+  text-align: left;
+}
+
+
+
+#second{
+    margin: 10px 105px;
+    padding: 10px;
+}
