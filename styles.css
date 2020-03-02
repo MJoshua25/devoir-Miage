@@ -52,8 +52,9 @@ body, html {
 .btn{
 	background-color: aqua;
 	border-radius: 3px;
-	padding: 2px;
+	padding: 5px;
 }
 h3, h2 {
 	text-decoration: underline;
 }
+
