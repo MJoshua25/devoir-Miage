@@ -16,7 +16,7 @@ body, html {
 }
 
 #main form fieldset{
-    padding: 10px;
+    padding:10px 0 10px 10px;
 }
 
 #main td{
@@ -56,8 +56,4 @@ body, html {
 }
 h3, h2 {
 	text-decoration: underline;
-}
-
-span {
-	margin-top: 100px;
 }
