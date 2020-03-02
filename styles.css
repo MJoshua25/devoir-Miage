@@ -24,13 +24,13 @@ body, html {
 	
 }
 /*  Table */
-/* 
-#section table, th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
+
+#second table, #second th, #second td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
-#second th, td {
-	padding: 15px;
+#second th, #second td {
+  padding: 15px;
 }
 
 #second th {
