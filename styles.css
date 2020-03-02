@@ -25,11 +25,11 @@ body, html {
 }
 /*  Table */
 
-table, th, td {
+#second table, #second th, #second td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-#second th, td {
+#second th, #second td {
   padding: 15px;
 }
 
