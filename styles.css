@@ -18,6 +18,10 @@ body, html {
     padding: 10px;
 }
 
+#main td{
+    text-align: left;
+}
+
 .right {
 	margin-top: 10px;
 	text-align: right;
