@@ -6,6 +6,7 @@
 
 body, html {
     font-size: 16px;
+    background: #cccccc0a;
 }
 /* content */
 #main {
@@ -53,6 +54,6 @@ body, html {
 	border-radius: 3px;
 	padding: 2px;
 }
-h3 {
+h3, h2 {
 	text-decoration: underline;
 }
