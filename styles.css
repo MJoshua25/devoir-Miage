@@ -24,20 +24,18 @@ body, html {
 	
 }
 /*  Table */
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
+/* 
+#section table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
 }
 #second th, td {
-  padding: 15px;
+	padding: 15px;
 }
 
 #second th {
-  text-align: left;
-}
-
-
+	text-align: left;
+} */
 
 #second{
     margin: 10px 105px;
