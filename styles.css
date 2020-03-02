@@ -18,6 +18,11 @@ body, html {
     padding: 10px;
 }
 
+.right {
+	margin-top: 10px;
+	text-align: right;
+	
+}
 /*  Table */
 
 table, th, td {
