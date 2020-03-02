@@ -17,3 +17,8 @@ body, html {
 #main form fieldset{
     padding: 10px;
 }
+
+.right {
+	margin-top: 10px;
+	text-align: right;
+}
